@@ -5,7 +5,7 @@
 //Configures
 #include "platform/modules/px_file.h"
 
-#define PX_APPLICATION_NAME "нр╣дсно╥"
+#define PX_APPLICATION_NAME "MyGame"
 #define PX_APPLICATION_SURFACE_SIZE 680
 
 #define PX_APPLICATION_MEMORYPOOL_UI_SIZE 1024*1024*16
